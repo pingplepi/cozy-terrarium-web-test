@@ -619,5 +619,113 @@
       1002,
       1085
     ]
+  },
+  "lieReach": {
+    "cell": 20,
+    "hatCenter": [
+      783,
+      444
+    ],
+    "hatLeft": [
+      576,
+      519
+    ],
+    "hatRight": [
+      965,
+      381
+    ],
+    "ribbonCenter": [
+      788,
+      941
+    ],
+    "collarLeft": [
+      645,
+      936
+    ],
+    "collarRight": [
+      919,
+      884
+    ]
+  },
+  "lieTuck": {
+    "cell": 21,
+    "hatCenter": [
+      767,
+      679
+    ],
+    "hatLeft": [
+      573,
+      734
+    ],
+    "hatRight": [
+      980,
+      617
+    ],
+    "ribbonCenter": [
+      828,
+      1101
+    ],
+    "collarLeft": [
+      678,
+      1111
+    ],
+    "collarRight": [
+      948,
+      1059
+    ]
+  },
+  "risePlant": {
+    "cell": 22,
+    "hatCenter": [
+      814,
+      605
+    ],
+    "hatLeft": [
+      623,
+      664
+    ],
+    "hatRight": [
+      997,
+      546
+    ],
+    "ribbonCenter": [
+      854,
+      1033
+    ],
+    "collarLeft": [
+      726,
+      1044
+    ],
+    "collarRight": [
+      987,
+      978
+    ]
+  },
+  "riseShift": {
+    "cell": 23,
+    "hatCenter": [
+      760,
+      423
+    ],
+    "hatLeft": [
+      570,
+      488
+    ],
+    "hatRight": [
+      950,
+      365
+    ],
+    "ribbonCenter": [
+      805,
+      866
+    ],
+    "collarLeft": [
+      658,
+      862
+    ],
+    "collarRight": [
+      939,
+      816
+    ]
   }
 }

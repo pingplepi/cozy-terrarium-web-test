@@ -8902,7 +8902,7 @@ k.n(0,h,new A.d(A.dF(g.h(i,0)),A.dF(g.h(i,1))))}}$.a0q.n(0,n,new A.Js(l,k))
 s=6
 break
 case 7:s=8
-return A.t(A.D5("assets/pets/cat-rest/poses",c,5,4),$async$oR)
+return A.t(A.D5("assets/pets/cat-rest/poses",c,5,5),$async$oR)
 case 8:$.Jr=c
 return A.D(null,r)}})
 return A.E($async$oR,r)},
@@ -52907,11 +52907,12 @@ s=this.cx
 r=2.1+this.fr+0.16+0.42
 if(s>=r)return B.d.ah(1-(s-r)/1.12,0,1)
 return B.d.ah(s/1.4,0,1)},
-ga0D(){var s,r
+ga0D(){var s,r,q
 if(this.k3!==B.bE)return null
 s=this.cx
-if(s<1.4)return A.aIq("lie",s,B.P9)
-if(s<1.92)return"lie10"
+if(s<1.4){if(s>=0.18&&s<0.25)return"lieReach"
+if(s>=1.22&&s<1.3)return"lieTuck"
+return A.aIq("lie",s,B.P9)}if(s<1.92)return"lie10"
 if(s<2.1)return"half"
 r=2.1+this.fr
 if(s<r)return B.OM[B.h.O(B.d.ce((s-2.1)/0.22),6)]
@@ -52919,7 +52920,10 @@ r+=0.16
 if(s<r)return"half"
 r+=0.42
 if(!(s>=r))return"rise01"
-return A.aIq("rise",s-r,B.Og)},
+q=s-r
+if(q>=0.25&&q<0.33)return"risePlant"
+if(q>=0.71&&q<0.79)return"riseShift"
+return A.aIq("rise",q,B.Og)},
 tN(){var s=this
 if(s.k3!==B.bE){s.a.tN()
 return}s.fx=s.go=!0},
@@ -101688,7 +101692,7 @@ B.N_=new A.pR(4,"bottom")
 B.LP=new A.dq(58173,"MaterialIcons",!1)
 B.M2=new A.fV(B.LP,null,null,null,null)
 B.a4b=new A.b4("\uc6f9 \ud14c\uc2a4\ud2b8 \ube4c\ub4dc",null,null,null,null,null,null,null,null)
-B.a42=new A.b4("0.23.0+23 \xb7 87c6727",null,null,null,null,null,null,null,null)
+B.a42=new A.b4("0.23.0+23 \xb7 78c9f77",null,null,null,null,null,null,null,null)
 B.N0=new A.Ay(B.M2,B.a4b,B.a42,null,null,null,null,null,null,null,!0,null,null,!1,null,null,null,!1,null,null,null,null,null,null,null,!0,null,null)
 B.Ga=new A.j(0.1411764705882353,0.49411764705882355,0.28627450980392155,0.16470588235294117,B.f)
 B.ir=new A.d(0,2)
