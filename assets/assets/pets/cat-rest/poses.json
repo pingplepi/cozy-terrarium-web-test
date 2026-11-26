@@ -1,0 +1,623 @@
+{
+  "lie01": {
+    "cell": -1,
+    "hatCenter": [
+      691,
+      334
+    ],
+    "hatLeft": [
+      490,
+      402
+    ],
+    "hatRight": [
+      866,
+      275
+    ],
+    "ribbonCenter": [
+      746,
+      815
+    ],
+    "collarLeft": [
+      592,
+      820
+    ],
+    "collarRight": [
+      868,
+      759
+    ]
+  },
+  "lie02": {
+    "cell": 0,
+    "hatCenter": [
+      747,
+      416
+    ],
+    "hatLeft": [
+      545,
+      482
+    ],
+    "hatRight": [
+      932,
+      354
+    ],
+    "ribbonCenter": [
+      759,
+      890
+    ],
+    "collarLeft": [
+      618,
+      883
+    ],
+    "collarRight": [
+      886,
+      834
+    ]
+  },
+  "lie03": {
+    "cell": 1,
+    "hatCenter": [
+      783,
+      444
+    ],
+    "hatLeft": [
+      576,
+      519
+    ],
+    "hatRight": [
+      965,
+      381
+    ],
+    "ribbonCenter": [
+      788,
+      941
+    ],
+    "collarLeft": [
+      645,
+      936
+    ],
+    "collarRight": [
+      919,
+      884
+    ]
+  },
+  "lie04": {
+    "cell": 2,
+    "hatCenter": [
+      786,
+      494
+    ],
+    "hatLeft": [
+      584,
+      559
+    ],
+    "hatRight": [
+      966,
+      438
+    ],
+    "ribbonCenter": [
+      790,
+      968
+    ],
+    "collarLeft": [
+      632,
+      963
+    ],
+    "collarRight": [
+      919,
+      910
+    ]
+  },
+  "lie05": {
+    "cell": 3,
+    "hatCenter": [
+      856,
+      486
+    ],
+    "hatLeft": [
+      665,
+      534
+    ],
+    "hatRight": [
+      1056,
+      420
+    ],
+    "ribbonCenter": [
+      886,
+      959
+    ],
+    "collarLeft": [
+      758,
+      965
+    ],
+    "collarRight": [
+      1001,
+      907
+    ]
+  },
+  "lie06": {
+    "cell": 4,
+    "hatCenter": [
+      805,
+      618
+    ],
+    "hatLeft": [
+      631,
+      687
+    ],
+    "hatRight": [
+      1019,
+      549
+    ],
+    "ribbonCenter": [
+      846,
+      1060
+    ],
+    "collarLeft": [
+      715,
+      1073
+    ],
+    "collarRight": [
+      962,
+      1031
+    ]
+  },
+  "lie07": {
+    "cell": 5,
+    "hatCenter": [
+      806,
+      653
+    ],
+    "hatLeft": [
+      617,
+      703
+    ],
+    "hatRight": [
+      1016,
+      594
+    ],
+    "ribbonCenter": [
+      859,
+      1091
+    ],
+    "collarLeft": [
+      696,
+      1114
+    ],
+    "collarRight": [
+      976,
+      1024
+    ]
+  },
+  "lie08": {
+    "cell": 6,
+    "hatCenter": [
+      794,
+      673
+    ],
+    "hatLeft": [
+      599,
+      717
+    ],
+    "hatRight": [
+      1004,
+      620
+    ],
+    "ribbonCenter": [
+      846,
+      1093
+    ],
+    "collarLeft": [
+      673,
+      1120
+    ],
+    "collarRight": [
+      967,
+      1044
+    ]
+  },
+  "lie09": {
+    "cell": 7,
+    "hatCenter": [
+      767,
+      679
+    ],
+    "hatLeft": [
+      573,
+      734
+    ],
+    "hatRight": [
+      980,
+      617
+    ],
+    "ribbonCenter": [
+      828,
+      1101
+    ],
+    "collarLeft": [
+      678,
+      1111
+    ],
+    "collarRight": [
+      948,
+      1059
+    ]
+  },
+  "lie10": {
+    "cell": 8,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "rise01": {
+    "cell": 8,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "rise02": {
+    "cell": 9,
+    "hatCenter": [
+      807,
+      721
+    ],
+    "hatLeft": [
+      619,
+      765
+    ],
+    "hatRight": [
+      963,
+      680
+    ],
+    "ribbonCenter": [
+      863,
+      1098
+    ],
+    "collarLeft": [
+      741,
+      1090
+    ],
+    "collarRight": [
+      995,
+      1061
+    ]
+  },
+  "rise03": {
+    "cell": 10,
+    "hatCenter": [
+      814,
+      605
+    ],
+    "hatLeft": [
+      623,
+      664
+    ],
+    "hatRight": [
+      997,
+      546
+    ],
+    "ribbonCenter": [
+      854,
+      1033
+    ],
+    "collarLeft": [
+      726,
+      1044
+    ],
+    "collarRight": [
+      987,
+      978
+    ]
+  },
+  "rise04": {
+    "cell": 11,
+    "hatCenter": [
+      851,
+      465
+    ],
+    "hatLeft": [
+      655,
+      529
+    ],
+    "hatRight": [
+      1033,
+      411
+    ],
+    "ribbonCenter": [
+      893,
+      932
+    ],
+    "collarLeft": [
+      733,
+      915
+    ],
+    "collarRight": [
+      1005,
+      865
+    ]
+  },
+  "rise05": {
+    "cell": 12,
+    "hatCenter": [
+      795,
+      450
+    ],
+    "hatLeft": [
+      609,
+      505
+    ],
+    "hatRight": [
+      976,
+      387
+    ],
+    "ribbonCenter": [
+      829,
+      883
+    ],
+    "collarLeft": [
+      698,
+      877
+    ],
+    "collarRight": [
+      960,
+      826
+    ]
+  },
+  "rise06": {
+    "cell": 13,
+    "hatCenter": [
+      760,
+      423
+    ],
+    "hatLeft": [
+      570,
+      488
+    ],
+    "hatRight": [
+      950,
+      365
+    ],
+    "ribbonCenter": [
+      805,
+      866
+    ],
+    "collarLeft": [
+      658,
+      862
+    ],
+    "collarRight": [
+      939,
+      816
+    ]
+  },
+  "rise07": {
+    "cell": 14,
+    "hatCenter": [
+      762,
+      376
+    ],
+    "hatLeft": [
+      565,
+      442
+    ],
+    "hatRight": [
+      941,
+      318
+    ],
+    "ribbonCenter": [
+      790,
+      839
+    ],
+    "collarLeft": [
+      652,
+      838
+    ],
+    "collarRight": [
+      927,
+      785
+    ]
+  },
+  "rise08": {
+    "cell": -1,
+    "hatCenter": [
+      691,
+      334
+    ],
+    "hatLeft": [
+      490,
+      402
+    ],
+    "hatRight": [
+      866,
+      275
+    ],
+    "ribbonCenter": [
+      746,
+      815
+    ],
+    "collarLeft": [
+      592,
+      820
+    ],
+    "collarRight": [
+      868,
+      759
+    ]
+  },
+  "half": {
+    "cell": 15,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "closed": {
+    "cell": 16,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "breath1": {
+    "cell": 17,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "breath2": {
+    "cell": 18,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  },
+  "breath3": {
+    "cell": 19,
+    "hatCenter": [
+      805,
+      720
+    ],
+    "hatLeft": [
+      607,
+      766
+    ],
+    "hatRight": [
+      979,
+      667
+    ],
+    "ribbonCenter": [
+      831,
+      1115
+    ],
+    "collarLeft": [
+      667,
+      1121
+    ],
+    "collarRight": [
+      1002,
+      1085
+    ]
+  }
+}
